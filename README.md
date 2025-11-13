@@ -1,4 +1,4 @@
-<h1 align="center">🗣️ Virtual Voice Assistance C# (Sarah)</h1>
+<h1 align="center">Virtual Voice Assistance C# (Sarah)</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6de7799a-1b75-4f14-8bb9-b78c05df0275" alt="Voice Assistant GUI Screenshot" width="700" />
 </p>
@@ -113,6 +113,9 @@ The following commands are available as defined in the project's logic and the `
 
 ## 👤 Author
 
-**Ahmed Hussain** *BSIT Department, SSUET* **Mentor:** Sir Shahbaz Haider
+**Ahmed Hussain**  
+**Instructor:** Sir Shahbaz
+
+---
 
 This project is a testament to the comprehensive learning environment at **SSUET** and a reflection of the collective effort and continuous journey toward technological excellence.
