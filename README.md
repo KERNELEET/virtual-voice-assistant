@@ -117,5 +117,3 @@ The following commands are available as defined in the project's logic and the `
 **Instructor:** Sir Shahbaz
 
 ---
-
-This project is a testament to the comprehensive learning environment at **SSUET** and a reflection of the collective effort and continuous journey toward technological excellence.
