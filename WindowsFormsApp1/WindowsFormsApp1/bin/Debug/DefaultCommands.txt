@@ -1,0 +1,17 @@
+Hello
+How are you
+What time is it
+What date is it today
+What Islamic date is it today
+Math
+1
+2
+3
+4
+Wake up
+Stop talking
+Stop listening
+Show commands
+Hide commands
+Goodbye Sarah
+Open YouTube
